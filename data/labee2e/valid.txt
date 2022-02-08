@@ -1,0 +1,100 @@
+There is a place in the city centre , Alimentum , that is not family - friendly . <eos>|||6,8,5 8,9,7 9,10,0 10,11,7 17,18,7 18,19,8
+In the city centre there is a venue name Alimentum , this is not a family - friendly venue . <eos>|||2,4,5 9,10,0 10,11,7 19,20,7 20,21,8
+Alimentum is not a family - friendly place , located in city centre . <eos>|||0,1,0 8,9,7 11,13,5 13,14,7 14,15,8
+Alimentum is not a family - friendly arena and is located in the city centre . <eos>|||0,1,0 13,15,5 15,16,7 16,17,8
+Alimentum is not a family - friendly place in the city centre . <eos>|||0,1,0 10,12,5 12,13,7 13,14,8
+Alimentum in city centre is not a family - friendly place . <eos>|||0,1,0 2,4,5 11,12,7 12,13,8
+Alimentum is not family - friendly , and is near the Burger King in the city centre . <eos>|||0,1,0 6,7,7 11,13,6 15,17,5 17,18,7 18,19,8
+Near Burger King in city centre is the adult establishment Alimentum . <eos>|||1,3,6 4,6,5 10,11,0 11,12,7 12,13,8
+Alimentum is not family - friendly . Alimentum is in the city center and it is near Burger King . <eos>|||0,1,0 6,7,7 7,8,0 17,19,6 19,20,7 20,21,8
+Alimentum is near Burger King in the city center . Alimentum is not family - friendly . <eos>|||0,1,0 3,5,6 9,10,7 10,11,0 16,17,7 17,18,8
+Near the Burger King and in the city centre is Alimentum , which is not family - friendly . <eos>|||2,4,6 7,9,5 10,11,0 11,12,7 18,19,7 19,20,8
+Alimentum is an adult establish found in the city centre area near Burger King . <eos>|||0,1,0 8,10,5 12,14,6 14,15,7 15,16,8
+Alimentum is a family - friendly place in the city centre . <eos>|||0,1,0 9,11,5 11,12,7 12,13,8
+In the city centre there is a family - friendly place called Alimentum . <eos>|||2,4,5 12,13,0 13,14,7 14,15,8
+The city centre has a family - friendly restaurant named Alimentum . <eos>|||1,3,5 10,11,0 11,12,7 12,13,8
+Alimentum city centre is family - friendly <eos>|||0,1,0 1,3,5 7,8,8
+Alimentum is a family - friendly city centre . <eos>|||0,1,0 6,8,5 8,9,7 9,10,8
+There is a family - friendly restaurant named Alimentum in the city centre . <eos>|||8,9,0 11,13,5 13,14,7 14,15,8
+Alimentum is family oriented and located near Burger King in the city centre . <eos>|||0,1,0 7,9,6 11,13,5 13,14,7 14,15,8
+The Alimentum is a family - friendly restaurant located in the city centre near Burger King . <eos>|||1,2,0 11,13,5 14,16,6 16,17,7 17,18,8
+Located in the city centre near Burger King , the Alimentum is a family - friendly restaurant . <eos>|||3,5,5 6,8,6 8,9,7 10,11,0 17,18,7 18,19,8
+Alimentum , located near Burger King in the city centre , is family - friendly . <eos>|||0,1,0 1,2,7 4,6,6 8,10,5 10,11,7 15,16,7 16,17,8
+Located Burger King in the city centre , Alimentum is family - friendly . <eos>|||1,3,6 5,7,5 7,8,7 8,9,0 13,14,7 14,15,8
+Alimentum is family - friendly and located in the city centre near Burger King . <eos>|||0,1,0 9,11,5 12,14,6 14,15,7 15,16,8
+Alimentum looks like a location where people or families aren 't allowed <eos>|||0,1,0 12,13,8
+Alimentum isn 't family - friendly but it is in riverside . <eos>|||0,1,0 10,11,5 11,12,7 12,13,8
+If you are searching for a place to go that 's not family - friendly and near the riverside , Alimentum is the place for you . <eos>|||18,19,5 19,20,7 20,21,0 26,27,7 27,28,8
+Alimentum is a family - friendly living in riverside . <eos>|||0,1,0 8,9,5 9,10,7 10,11,8
+Alimentum is a family - friendly living in riverside . <eos>|||0,1,0 8,9,5 9,10,7 10,11,8
+Alimentum , located on the river . No good for families . <eos>|||0,1,0 1,2,7 6,7,7 11,12,7 12,13,8
+Riverside has Alimentum , which is not family - friendly . <eos>|||0,1,5 2,3,0 3,4,7 10,11,7 11,12,8
+Alimentum is a not family - friendly place near the riverside . <eos>|||0,1,0 10,11,5 11,12,7 12,13,8
+No good for families . Alimentum , close to the river . <eos>|||4,5,7 5,6,0 6,7,7 11,12,7 12,13,8
+Burger King is near the Alimentum which is not family friendly and located north of the City center . <eos>|||0,2,6 5,6,0 18,19,7 19,20,8
+Alimentum is a restaurant located in riverside near Burger King , Alimentum is not a family - friendly restaurant . <eos>|||0,1,0 6,7,5 8,10,6 10,11,7 11,12,0 19,20,7 20,21,8
+Located off the river near Burger King , Alimentum does not allow families . <eos>|||5,7,6 7,8,7 8,9,0 13,14,7 14,15,8
+Alimentum is a non - family - friendly establishment near Burger King at the riverside . <eos>|||0,1,0 10,12,6 14,15,5 15,16,7 16,17,8
+Alimentum is a great venue located in riverside near Burger King , is not a family - friendly restaurant . <eos>|||0,1,0 7,8,5 9,11,6 11,12,7 19,20,7 20,21,8
+Alimentum at the riverside near Burger King is a non - family - friendly establishment . <eos>|||0,1,0 3,4,5 5,7,6 15,16,7 16,17,8
+Not family friendly Alimentum across from Burger King <eos>|||3,4,0 6,8,6 8,9,8
+Alimentum , located near Burger King , is not family - friendly . <eos>|||0,1,0 1,2,7 4,6,6 6,7,7 12,13,7 13,14,8
+Alimentum is located near Burger King in riverside . It is not family - friendly . <eos>|||0,1,0 4,6,6 7,8,5 8,9,7 15,16,7 16,17,8
+Alimentum is not family - friendly . It is located near Burger King in riverside . <eos>|||0,1,0 6,7,7 11,13,6 14,15,5 15,16,7 16,17,8
+Alimentum across from Burger King no kids <eos>|||0,1,0 3,5,6 7,8,8
+A kid friendly venue named Alimentum is located on the riverside . <eos>|||5,6,0 10,11,5 11,12,7 12,13,8
+Alimentum , situated by the river , is child friendly . <eos>|||0,1,0 1,2,7 6,7,7 10,11,7 11,12,8
+Alimentum is child friendly and is located by the river . <eos>|||0,1,0 10,11,7 11,12,8
+Alimentum is a family friendly place in the riverside area . <eos>|||0,1,0 8,9,5 10,11,7 11,12,8
+In the riverside area there is a restaurant that is kid friendly named Alimentum <eos>|||2,3,5 13,14,0 14,15,8
+For a children friendly establishment in the riverside area , try Alimentum . <eos>|||7,8,5 9,10,7 11,12,0 12,13,7 13,14,8
+The riverside restaurant , Alimentum is very child friendly and great for adults as well . <eos>|||1,2,5 3,4,7 4,5,0 15,16,7 16,17,8
+Alimentum is a child - friendly venue located on the riverside . <eos>|||0,1,0 10,11,5 11,12,7 12,13,8
+There is a family - friendly venue in the riverside area called Alimentum . <eos>|||9,10,5 12,13,0 13,14,7 14,15,8
+At the riverside there is a friendly family place called Alimentum <eos>|||2,3,5 10,11,0 11,12,8
+Located in riverside area , Alimentum restaurant is a place to bring the whole family . <eos>|||2,3,5 4,5,7 5,6,0 15,16,7 16,17,8
+There is a riverside restaurant called Alimentum which is child friendly . <eos>|||3,4,5 6,7,0 11,12,7 12,13,8
+Alimentum can be found in riverside and is family friendly . <eos>|||0,1,0 5,6,5 10,11,7 11,12,8
+Being beside the river , Alimentum is a family friendly place . <eos>|||4,5,7 5,6,0 11,12,7 12,13,8
+A family friendly place near the riverside is called Alimentum . <eos>|||6,7,5 9,10,0 10,11,7 11,12,8
+Visit Alimentum by the riverside , it is kids friendly . <eos>|||1,2,0 4,5,5 5,6,7 10,11,7 11,12,8
+For a riverside , child friendly environment visit the Alimentum . <eos>|||2,3,5 3,4,7 9,10,0 10,11,7 11,12,8
+Alimentum is located near the riverside . It is child friendly . <eos>|||0,1,0 5,6,5 6,7,7 11,12,7 12,13,8
+Alimentum in the riverside area is child friendly . <eos>|||0,1,0 3,4,5 8,9,7 9,10,8
+Alimentum , on the riverside , is family - friendly . <eos>|||0,1,0 1,2,7 4,5,5 5,6,7 10,11,7 11,12,8
+Alimentum is a child friendly place on the riverside . <eos>|||0,1,0 8,9,5 9,10,7 10,11,8
+There is child friendly restaurant in the riverside area named Alimentum . <eos>|||7,8,5 10,11,0 11,12,7 12,13,8
+Alimentum is a child - friendly place on the riverside . <eos>|||0,1,0 9,10,5 10,11,7 11,12,8
+The Alimentum is in the riverside area . It is a family friendly place . <eos>|||1,2,0 5,6,5 7,8,7 14,15,7 15,16,8
+The Alimentum is kid friendly and is located in the riverside area . <eos>|||1,2,0 10,11,5 12,13,7 13,14,8
+On the riverside , there is a kids friendly venue called Alimentum . <eos>|||2,3,5 3,4,7 11,12,0 12,13,7 13,14,8
+Alimentum is kid - friendly and is located at the riverside . <eos>|||0,1,0 10,11,5 11,12,7 12,13,8
+On the riverside there is a child friendly place called Alimentum . <eos>|||2,3,5 10,11,0 11,12,7 12,13,8
+By the riverside you can find Alimentum , which is a family friendly place . <eos>|||2,3,5 6,7,0 7,8,7 14,15,7 15,16,8
+In Riverside you will find the kid - friendly restaurant Alimentum . <eos>|||1,2,5 10,11,0 11,12,7 12,13,8
+If you want to take the children for a meal then try Alimentum they provide a child friendly service in their riverside setting . <eos>|||12,13,0 21,22,5 23,24,7 24,25,8
+The Alimentum is in the riverside area . It is family friendly . <eos>|||1,2,0 5,6,5 7,8,7 12,13,7 13,14,8
+If you are looking for a kids Friendly establishment in the riverside area , try Alimentum . <eos>|||11,12,5 13,14,7 15,16,0 16,17,7 17,18,8
+Located in the riverside area the Alimentum is kid friendly . <eos>|||3,4,5 6,7,0 10,11,7 11,12,8
+Located in the riverside area , Alimentum is child friendly . <eos>|||3,4,5 5,6,7 6,7,0 10,11,7 11,12,8
+A kid friendly place in riverside is Alimentum . <eos>|||5,6,5 7,8,0 8,9,7 9,10,8
+Alimentum , located in the riverside area is kid friendly . <eos>|||0,1,0 1,2,7 5,6,5 10,11,7 11,12,8
+You will find Alimentum a nice child friendly place . It is located near Burger King and riverside . <eos>|||3,4,0 9,10,7 14,16,6 17,18,5 18,19,7 19,20,8
+Alimentum is near Burger King and is not only riverside , but children friendly as well . <eos>|||0,1,0 3,5,6 9,10,5 10,11,7 16,17,7 17,18,8
+Alimentum is a family friendly establishment in the riverside area near the Burger King . <eos>|||0,1,0 8,9,5 12,14,6 14,15,7 15,16,8
+Close - by to Burger King is Alimentum , a child - friendly restaurant by the riverside . <eos>|||4,6,6 7,8,0 8,9,7 16,17,5 17,18,7 18,19,8
+There is a family friendly place Alimentum located near Burger King in riverside . <eos>|||6,7,0 9,11,6 12,13,5 13,14,7 14,15,8
+Alimentum is a children - friendly spot near Burger King in Riverside . <eos>|||0,1,0 8,10,6 11,12,5 12,13,7 13,14,8
+Located near to Burger King on the riverside , Alimentum is a child friendly establishment . <eos>|||3,5,6 7,8,5 8,9,7 9,10,0 15,16,7 16,17,8
+There is a kid - friendly restaurant in riverside near the Burger King named Alimentum . <eos>|||8,9,5 11,13,6 14,15,0 15,16,7 16,17,8
+There is a kid friendly place in riverside near Burger King named Alimentum . <eos>|||7,8,5 9,11,6 12,13,0 13,14,7 14,15,8
+Alimentum is a family - friendly location in the Riverside area , near the Burger King . <eos>|||0,1,0 9,10,5 11,12,7 14,16,6 16,17,7 17,18,8
+There is a child friendly place called Alimentum by the riverside , near Burger King . <eos>|||7,8,0 10,11,5 11,12,7 13,15,6 15,16,7 16,17,8
+Family friendly venue near the Burger King on the riverside is called Alimentum . <eos>|||5,7,6 9,10,5 12,13,0 13,14,7 14,15,8
+Near the riverside is a kids friendly eatery called Alimentum . There is a Burger King close to it as well . <eos>|||2,3,5 9,10,0 10,11,7 14,16,6 21,22,7 22,23,8
+In terms of kids friendly places , there 's Alimentum in Riverside , near Burger King . <eos>|||6,7,7 9,10,0 11,12,5 12,13,7 14,16,6 16,17,7 17,18,8
+For a family - friendly atmosphere in Riverside , check out Alimentum near the Burger King . <eos>|||7,8,5 8,9,7 11,12,0 14,16,6 16,17,7 17,18,8
+Near Burger King on the riverside , there 's a family friendly place named Alimentum . <eos>|||1,3,6 5,6,5 6,7,7 14,15,0 15,16,7 16,17,8
+Near Burger King , there is a kid friendly place called Alimentum near the riverside . <eos>|||1,3,6 3,4,7 11,12,0 14,15,5 15,16,7 16,17,8
+This kids - friendly restaurant called Alimentum is located in riverside near Burger King . <eos>|||6,7,0 10,11,5 12,14,6 14,15,7 15,16,8
+By the riverside near Burger King , there 's a kid friendly Alimentum . <eos>|||2,3,5 4,6,6 6,7,7 12,13,0 13,14,7 14,15,8
